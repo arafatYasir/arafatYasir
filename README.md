@@ -41,7 +41,6 @@ I'm Arafat — a passionate frontend developer focused on building responsive, u
 
 ---
 
-### 📫 Connect with me
-- Codeforces: [your-handle]
-- LinkedIn: [your-linkedin]
-- Twitter: [your-twitter]
+### 📫 Connect with Me
+- 📘 Codeforces: [iamyasir.arafat01](https://codeforces.com/profile/iamyasir.arafat01)
+- 🧩 LeetCode: [yasirarafat01](https://leetcode.com/u/yasirarafat01/)
