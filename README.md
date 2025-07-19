@@ -1,7 +1,6 @@
 # Hi there 👋, I'm Arafat — Frontend Developer & Competitive Programmer
 
 ### 🚀 Crafting clean UIs with React, Tailwind & Next.js ⚡ | Aiming for Candidate Master on Codeforces 🎯 | Always building, always learning 💻
-(https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 ---
 
 ### 👨‍💻 About Me
