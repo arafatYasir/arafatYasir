@@ -5,10 +5,8 @@
 
 ### 👨‍💻 About Me
 I'm Arafat — a passionate frontend developer focused on building responsive, user‑friendly web interfaces using React, Tailwind CSS, and currently diving deep into Next.js. Alongside web development, I'm actively sharpening my problem‑solving skills as a competitive programmer, aiming to reach Candidate Master on Codeforces by the end of this year. I love turning ideas into clean, functional UI and constantly seek to grow as a developer by learning, building, and pushing my limits.
-
 ---
 
-### 🛠️ Skills
 ### 🛠️ Skills
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
@@ -17,7 +15,7 @@ I'm Arafat — a passionate frontend developer focused on building responsive, u
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" alt="tailwind logo" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="30" alt="tailwind logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
   <img width="12" />
@@ -32,13 +30,10 @@ I'm Arafat — a passionate frontend developer focused on building responsive, u
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
   <img width="12" />
 </div>
-
-
 ---
 
 ### 📊 GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arafatYasir&layout=compact&langs_count=6&theme=dark)](https://github.com/arafatYasir)  
-
 ---
 
 ### 📫 Connect with Me
