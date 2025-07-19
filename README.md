@@ -1,11 +1,17 @@
 # Hi there 👋, I'm Arafat — Frontend Developer & Competitive Programmer
 
 ### 🚀 Crafting clean UIs with React, Tailwind & Next.js ⚡ | Aiming for Candidate Master on Codeforces 🎯 | Always building, always learning 💻
+
 ---
+
+### 👨‍💻 About Me
+
 I'm Arafat — a passionate frontend developer focused on building responsive, user‑friendly web interfaces using React, Tailwind CSS, and currently diving deep into Next.js. Alongside web development, I'm actively sharpening my problem‑solving skills as a competitive programmer, aiming to reach Candidate Master on Codeforces by the end of this year. I love turning ideas into clean, functional UI and constantly seek to grow as a developer by learning, building, and pushing my limits.
+
 ---
 
 ### 🛠️ Skills
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
   <img width="12" />
@@ -27,20 +33,33 @@ I'm Arafat — a passionate frontend developer focused on building responsive, u
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
 </div>
+
 ---
 
-- 🔭 I’m currently working on Frontend Development 
-- 🌱 I’m currently learning Next.js 
-- 💬 Ask me about React.js 
-- 📫 How to reach me: iamyasir.arafat01@gmail.com 
+### 🚀 Currently
+
+- 🔭 I’m currently working on Frontend Development  
+- 🌱 I’m currently learning Next.js  
+- 💬 Ask me about React.js  
+- 📫 How to reach me: iamyasir.arafat01@gmail.com  
+
+---
 
 ### 📊 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arafatYasir&layout=compact&langs_count=6&theme=dark)](https://github.com/arafatYasir)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arafatYasir&layout=compact&langs_count=6&theme=dark)](https://github.com/arafatYasir)
+
 ---
 
 ### 📫 Connect with Me
-- 📘 Codeforces: [iamyasir.arafat01](https://codeforces.com/profile/iamyasir.arafat01)
+
+- 📘 Codeforces: [iamyasir.arafat01](https://codeforces.com/profile/iamyasir.arafat01)  
 - 🧩 LeetCode: [yasirarafat01](https://leetcode.com/u/yasirarafat01/)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/arafatYasir)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](https://codeforces.com/profile/iamyasir.arafat01)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/u/yasirarafat01/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/arafatYasir)
+&nbsp;&nbsp;
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='30'>](https://codeforces.com/profile/iamyasir.arafat01)
+&nbsp;&nbsp;
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='30'>](https://leetcode.com/u/yasirarafat01/)
