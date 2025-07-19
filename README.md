@@ -32,7 +32,7 @@ I'm Arafat — a passionate frontend developer focused on building responsive, u
 ### 📊 GitHub Stats
 
 [![Arafat's GitHub stats](https://github-readme-stats.vercel.app/api?username=arafatYasir&show_icons=true&theme=radical)](https://github.com/arafatYasir)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arafatYasir&layout=compact&langs_count=6)](https://github.com/arafatYasir)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arafatYasir&layout=compact&langs_count=6&theme=dark)](https://github.com/arafatYasir)  
 
 ---
 
