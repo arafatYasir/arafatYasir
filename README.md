@@ -36,8 +36,6 @@ I'm Arafat — a passionate frontend developer focused on building responsive, u
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
 </div>
 
----
-
 ### 🚀 Currently
 
 - 🔭 I’m currently working on Frontend Development  
@@ -45,13 +43,9 @@ I'm Arafat — a passionate frontend developer focused on building responsive, u
 - 💬 Ask me about React.js  
 - 📫 How to reach me: iamyasir.arafat01@gmail.com  
 
----
-
 ### 📊 GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arafatYasir&layout=compact&langs_count=6&theme=dark)](https://github.com/arafatYasir)
-
----
 
 ### 📫 Connect with Me
 
