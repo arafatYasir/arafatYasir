@@ -2,13 +2,9 @@
 
 ### 🚀 Crafting clean UIs with React, Tailwind & Next.js ⚡ | Aiming for Candidate Master on Codeforces 🎯 | Always building, always learning 💻
 
----
-
 ### 👨‍💻 About Me
 
 I'm Arafat — a passionate frontend developer focused on building responsive, user‑friendly web interfaces using React, Tailwind CSS, and currently diving deep into Next.js. Alongside web development, I'm actively sharpening my problem‑solving skills as a competitive programmer, aiming to reach Candidate Master on Codeforces by the end of this year. I love turning ideas into clean, functional UI and constantly seek to grow as a developer by learning, building, and pushing my limits.
-
----
 
 ### 🛠️ Skills
 
