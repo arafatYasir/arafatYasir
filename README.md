@@ -32,6 +32,11 @@ I'm Arafat — a passionate frontend developer focused on building responsive, u
 </div>
 ---
 
+- 🔭 I’m currently working on Frontend Development 
+- 🌱 I’m currently learning Next.js 
+- 💬 Ask me about React.js 
+- 📫 How to reach me: iamyasir.arafat01@gmail.com 
+
 ### 📊 GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arafatYasir&layout=compact&langs_count=6&theme=dark)](https://github.com/arafatYasir)  
 ---
@@ -39,3 +44,5 @@ I'm Arafat — a passionate frontend developer focused on building responsive, u
 ### 📫 Connect with Me
 - 📘 Codeforces: [iamyasir.arafat01](https://codeforces.com/profile/iamyasir.arafat01)
 - 🧩 LeetCode: [yasirarafat01](https://leetcode.com/u/yasirarafat01/)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/arafatYasir)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](https://codeforces.com/profile/iamyasir.arafat01)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/u/yasirarafat01/)  
