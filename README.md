@@ -1,34 +1,19 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+### Hi there 👋, I'm Arafat — Frontend Developer & Competitive Programmer
+#### Crafting clean UIs with React, Tailwind & Next.js ⚡ | Aiming for Candidate Master on Codeforces 🎯 | Always building, always learning 💻
+![Crafting clean UIs with React, Tailwind & Next.js ⚡ | Aiming for Candidate Master on Codeforces 🎯 | Always building, always learning 💻](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-###
+I'm Arafat — a passionate frontend developer focused on building responsive, user-friendly web interfaces using React, Tailwind CSS, and currently diving deep into Next.js. Alongside web development, I'm actively sharpening my problem-solving skills as a competitive programmer, aiming to reach Candidate Master on Codeforces by the end of this year. I love turning ideas into clean, functional UI and constantly seek to grow as a developer by learning, building, and pushing my limits.
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+Skills: REACT / JS / HTML / CSS / Bootstrap / Tailwind CSS / Firebase
 
-###
+- 🔭 I’m currently working on eshop project 
+- 🌱 I’m currently learning Next.js 
+- 📫 How to reach me: iamyasir.arafat01@gmail.com 
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
 
-###
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/arafatYasir)  
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arafatYasir)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=arafatYasir)  
+
