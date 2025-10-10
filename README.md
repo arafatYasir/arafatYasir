@@ -4,8 +4,7 @@
 
 ### 👨‍💻 About Me
 
-I'm Arafat — a frontend developer focused on building responsive, user‑friendly web interfaces using React, Tailwind CSS, and currently diving deep into Next.js. Alongside web development, I'm actively sharpening my problem‑solving skills as a competitive programmer. I love turning ideas into clean, functional UI and constantly seek to grow as a developer by learning, building, and pushing my limits.
-
+I'm Arafat — a frontend developer focused on building responsive, user‑friendly web interfaces using React, Tailwind CSS, and currently diving deep into Next.js. Alongside web development, I'm actively sharpening my problem‑solving skills as a competitive programmer.
 ### 🛠️ Skills
 
 <div align="left">
