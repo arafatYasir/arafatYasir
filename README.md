@@ -29,9 +29,9 @@ I'm a frontend developer focused on building responsive, user‑friendly web int
 
 ### 🚀 Currently
 
-- 🔭 I’m currently working on Frontend Development  
-- 🌱 I’m currently learning Next.js  
-- 💬 Ask me about React.js  
+- 🔭 I'm currently working on Frontend Development  
+- 🌱 I'm currently learning Next.js  
+- 💬 Ask me about React
 - 📫 How to reach me: iamyasir.arafat01@gmail.com  
 
 ### 📊 GitHub Stats
