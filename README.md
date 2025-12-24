@@ -1,4 +1,3 @@
-I'm a frontend developer focused on building responsive, user‑friendly web interfaces using React, Tailwind CSS, and currently diving deep into Next.js. Alongside web development, I'm actively sharpening my problem‑solving skills as a competitive programmer.
 ### 🛠️ Skills
 
 <div align="left">
