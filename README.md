@@ -44,7 +44,7 @@
 
 ### 🚀 Currently
 
-- 🔭 I'm currently working on Linkora & Keyword Insight Engine
+- 🔭 I'm currently working on Linkora & NextStep
 - 🌱 I'm currently learning Next.js
 - 💬 Ask me about React
 - 📫 How to reach me: iamyasir.arafat01@gmail.com
