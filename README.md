@@ -46,9 +46,9 @@
 
 ### 🚀 Currently
 
-- 🔭 I'm currently working on NextStep
+- 🔭 I'm currently working on PrimeNest
 - 🌱 I'm currently learning Next.js
-- 💬 Ask me about React, Problem Solving and Competitive Programming
+- 💬 Ask me about React, problem-solving, and competetive programming
 - 📫 How to reach me: iamyasir.arafat01@gmail.com
 
 ### 📊 GitHub Stats
