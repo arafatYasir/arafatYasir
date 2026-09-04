@@ -48,7 +48,7 @@
 
 - 🔭 I'm currently working on PrimeNest
 - 🌱 I'm currently learning Next.js
-- 💬 Ask me about React, problem-solving, and competetive programming
+- 💬 Ask me about MERN stack development, problem-solving, and competitive programming
 - 📫 How to reach me: iamyasir.arafat01@gmail.com
 
 ### 📊 GitHub Stats
