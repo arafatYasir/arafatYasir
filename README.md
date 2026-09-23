@@ -54,10 +54,3 @@
 ### 📊 GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arafatYasir&layout=compact&langs_count=6&theme=dark)](https://github.com/arafatYasir)
-
-### 📫 Connect with Me
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/arafatYasir)
-&nbsp;&nbsp;
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='30'>](https://codeforces.com/profile/iamyasir.arafat01)
-&nbsp;&nbsp;
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='30'>](https://leetcode.com/u/yasirarafat01/)
