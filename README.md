@@ -26,10 +26,10 @@
 ### GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arafatyasir&show_icons=true&locale=en&layout=compact" alt="Most used languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=arafatyasir&show_icons=true&locale=en" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arafatyasir&show_icons=true&locale=en&layout=compact&theme=dark" alt="Most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arafatyasir&show_icons=true&locale=en&theme=dark" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=arafatyasir" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com/?user=arafatyasir&theme=dark" alt="GitHub contribution streak" />
 </p>
