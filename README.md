@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yasir Arafat</h1>
 <h3 align="center">A MERN Stack Developer from Bangladesh</h3>
 
-- 🔭 I'm currently working on [PrimeNest](https://github.com/arafatYasir/PrimeNest)
+- 🔭 I'm currently working on [PrimeNest](https://github.com/arafatYasir/PrimeNest) and [NextStep](https://github.com/arafatYasir/NextStep)
 - 🌱 I'm currently learning **Next.js**
 - 💬 Ask me about **MERN Stack Development**
 - 📫 How to reach me: **[iamyasir.arafat01@gmail.com](mailto:iamyasir.arafat01@gmail.com)**
